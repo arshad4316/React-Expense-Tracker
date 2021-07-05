@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+Array [
+  <h4>
+    Your Balance
+  </h4>,
+  <h1>
+     0.00
+  </h1>,
+]
+`;
